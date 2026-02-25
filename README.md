@@ -4,7 +4,7 @@
 Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou Cursando Atualmente Ensino Medio Técnico de Informatíca,Estudo Em um Colégio Chamado [Fundação Instituto Técnologico De Osasco(FITO)](https://fito.edu.br/) E Lá Aprendi Tudo Que Sei Sobre Informatica. Sou Apaixonado por Ti E Aqui Nesse perfil Você Podera Acompanhar Alguns De Meus Projetos.
 
 <p align="left">
-    <a href="https://api.whatsapp.com/send/?phone=5511973796086&text&type=phone_number&app_absent=0">
+    <a href="https://api.whatsapp.com/send/?phone=5511973796086&text&type=phone_number&app_absent=0" target="_blank">
         <img 
             alt="whatsapp" 
             title="Converse comigo" 

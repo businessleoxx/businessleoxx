@@ -34,7 +34,7 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=box&logoSource=feather"
         />
     </a>
-    <a href = "mailto:wiokya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="[discord](http://discord.com/users/842518251312250970)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a>
     
 ---
 

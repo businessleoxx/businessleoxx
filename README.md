@@ -25,7 +25,15 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
         />
     </a>
 </p>
-
+<p align="left">
+    <a href="https://www.linkedin.com/in/businessleoxx/" target="_blank">
+        <img 
+            alt="linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=box&logoSource=feather"
+        />
+    </a>
+    
 ---
 
 ### 🤖 Linguagens e Tecnologias

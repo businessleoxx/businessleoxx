@@ -17,7 +17,7 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
             title="email" 
             src="https://custom-icon-badges.demolab.com/badge/-businessleoxx@gmail.com-red?color=blue&style=for-the-badge&logo=mention&logoColor=white"
         />
-        <a href="stagram.com/leoxx._ozz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
+        <a href="https://www.instagram.com/leoxx._ozz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
     <a>
         <img 
             alt="cidade" 

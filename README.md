@@ -75,6 +75,7 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<a href="https://www.java.com/pt-BR/" target="_blank">
 <img 
     align="left" 
     alt="Java" 
@@ -83,6 +84,8 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
 <img 
     align="left" 
     alt="MySql" 
@@ -91,6 +94,7 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" 
 />
+</a>
 <a href="https://git-scm.com/" target="_blank">
 <img 
     align="left" 

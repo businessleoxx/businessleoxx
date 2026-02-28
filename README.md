@@ -101,6 +101,7 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" 
 />
 </a>
+<a href="https://kotlinlang.org/" target="_blank">
 <img 
     align="left" 
     alt="Kotlin" 
@@ -109,6 +110,8 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" 
 />
+</a>
+<a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank">
 <img 
     align="left" 
     alt="windosws11" 
@@ -117,6 +120,8 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" 
 />
+</a>
+<a href="https://www.canva.com/pt_br/" target="_blank">
 <img 
     align="left" 
     alt="canva" 
@@ -125,6 +130,8 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/canva/canva-original.svg" 
 />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
 <img 
     align="left" 
     alt="vscode" 
@@ -133,4 +140,5 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" 
 />
+</a>
 

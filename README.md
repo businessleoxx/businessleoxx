@@ -19,22 +19,22 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     </a>
 </p>
         <p align="left">
-            <a href="https://www.linkedin.com/in/businessleoxx/?_l=pt_BR" title="HTML" target="_blank">
+            <a href="https://www.linkedin.com/in/businessleoxx/?_l=pt_BR" title="Linkedin" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="https://wa.me/5511973796086" target="_blank">
+<a href="https://wa.me/5511973796086" title="WhatsApp" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
 
-<a href="https://www.instagram.com/leoxx._ozz/" target="_blank">
+<a href="https://www.instagram.com/leoxx._ozz/" title="Instagram" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=61588211135872" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61588211135872" title="Facebook" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://discord.com/users/842518251312250970" target="_blank">
+<a href="https://discord.com/users/842518251312250970" title="Discord" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
 </a>
     </p>

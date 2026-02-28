@@ -3,21 +3,13 @@
 
 Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou Cursando Atualmente Ensino Medio Técnico de Informatíca,Estudo Em um Colégio Chamado [Fundação Instituto Técnologico De Osasco(FITO)](https://fito.edu.br/) E Lá Aprendi Tudo Que Sei Sobre Informatica. Sou Apaixonado por Ti E Aqui Nesse perfil Você Podera Acompanhar Alguns De Meus Projetos.
 
-<p align="left">
-    <a href="https://api.whatsapp.com/send/?phone=5511973796086&text&type=phone_number&app_absent=0" target="_blank">
-        <img 
-            alt="whatsapp" 
-            title="Converse comigo" 
-            src="https://custom-icon-badges.demolab.com/badge/-Whatsapp-plum?color=55960c&style=for-the-badge&logo=comment-discussion&logoColor=black&"
-        />
-    </a>
+<p align="left"
     <a>
         <img 
             alt="email" 
             title="email" 
             src="https://custom-icon-badges.demolab.com/badge/-businessleoxx@gmail.com-red?color=blue&style=for-the-badge&logo=mention&logoColor=white"
         />
-        <a href="https://www.instagram.com/leoxx._ozz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
     <a>
         <img 
             alt="cidade" 
@@ -27,8 +19,24 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     </a>
 </p>
         <p align="left">
-        <a href="http://discord.com/users/842518251312250970" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a>
-        <Center><a href="https://www.linkedin.com/in/businessleoxx/?_l=pt_BR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AuraFarmerOne" height="45" width="25" /></a></center>
+            <a href="https://www.linkedin.com/in/businessleoxx/?_l=pt_BR" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://wa.me/5511973796086" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
+
+<a href="instagram.com/leoxx._ozz/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61588211135872" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="discord.com/users/842518251312250970" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
     </p>
     
 ---

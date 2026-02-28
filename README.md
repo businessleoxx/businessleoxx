@@ -4,19 +4,16 @@
 Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou Cursando Atualmente Ensino Medio Técnico de Informatíca,Estudo Em um Colégio Chamado [Fundação Instituto Técnologico De Osasco(FITO)](https://fito.edu.br/) E Lá Aprendi Tudo Que Sei Sobre Informatica. Sou Apaixonado por Ti E Aqui Nesse perfil Você Podera Acompanhar Alguns De Meus Projetos.
 
 <p align="left"
-    <a>
         <img 
             alt="email" 
             title="email" 
             src="https://custom-icon-badges.demolab.com/badge/-businessleoxx@gmail.com-red?color=blue&style=for-the-badge&logo=mention&logoColor=white"
         />
-    <a>
         <img 
             alt="cidade" 
             title="minha cidade" 
             src="https://custom-icon-badges.demolab.com/badge/Osasco-SP-purple?style=for-the-badge&logo=location&logoColor=white"
         />
-    </a>
 </p>
         <p align="left">
             <a href="https://www.linkedin.com/in/businessleoxx/?_l=pt_BR" title="Linkedin" target="_blank">

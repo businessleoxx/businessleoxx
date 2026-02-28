@@ -85,32 +85,34 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
 />
 <img 
     align="left" 
-    alt="Sql" 
-    title="Sql"
+    alt="MySql" 
+    title="MYSql"
     width="44px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" 
 />
+<a href="https://git-scm.com/" target="_blank">
 <img 
     align="left" 
-    alt="windosws" 
-    title="Windows"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" 
 />
+</a>
 <img 
     align="left" 
-    alt="windosws" 
-    title="Windows"
+    alt="Kotlin" 
+    title="Kotlin"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" 
 />
 <img 
     align="left" 
-    alt="windosws" 
-    title="Windows"
+    alt="windosws11" 
+    title="Windows11"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" 

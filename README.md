@@ -1,5 +1,5 @@
 # 🐱‍👤 Leonardo Ribeiro
-**`desenvolvedor fullstack`** **`web designer`** **`Dev`**
+**`Desenvolvedor Fullstack`** **`Web Designer`** **`Dev`**
 
 Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou Cursando Atualmente Ensino Medio Técnico de Informatíca,Estudo Em um Colégio Chamado [Fundação Instituto Técnologico De Osasco(FITO)](https://fito.edu.br/) E Lá Aprendi Tudo Que Sei Sobre Informatica. Sou Apaixonado por Ti E Aqui Nesse perfil Você Podera Acompanhar Alguns De Meus Projetos.
 

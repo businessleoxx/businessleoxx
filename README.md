@@ -145,13 +145,23 @@ Olá Me Chamo Leonardo Ribeiro Tenho 17 Anos e Sou Residente De Osasco/SP.Estou 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" 
 />
 </a>
-<a href="https://www.apple.com/br/os/macos/" target="_blank">
 <img 
     align="left" 
-    alt="MacOS" 
-    title="Apple"
+    alt="Apple" 
+    title="Mac OS"
     width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/default.svg" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/default.svg"
+/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" 
 />
 </a>

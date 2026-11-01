@@ -28,14 +28,6 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
 
-<a href="https://www.instagram.com/leoxx._ozz/" title="Instagram" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=61588211135872" title="Facebook" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-
  </p>
     
 ---

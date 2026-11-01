@@ -37,11 +37,11 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
 <p align="left">
 
   <picture>
-    <img alt="HTML" title="HTML5" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img alt="HTML" title="HTML" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   </picture>
 
   <picture>
-    <img alt="CSS" title="CSS3" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img alt="CSS" title="CSS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   </picture>
 
   <picture>

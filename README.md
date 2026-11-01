@@ -51,10 +51,11 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
 <h3>🤖 Linguagens e Tecnologias</h3>
 
 <p align="left">
-  <img alt="HTML5" title="HTML5" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin-right: 10px;" />
-  <img alt="CSS3" title="CSS3" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin-right: 10px;" />
+  <img alt="HTML" title="HTML5" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin-right: 10px;" />
+  <img alt="CSS" title="CSS3" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin-right: 10px;" />
   <img alt="JavaScript" title="JavaScript" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />
-  <img alt="PHP" title="PHP" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="margin-right: 10px;" />
+<a href="https://www.php.net/">  
+<img alt="PHP" title="PHP" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="margin-right: 10px;" />
   <img alt="Java" title="Java" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin-right: 10px;" />
   <img alt="MySQL" title="MySQL" width="44" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 10px;" />
   <img alt="Git" title="Git" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" style="margin-right: 10px;" />

@@ -48,13 +48,22 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img alt="HTML5" title="HTML5" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-  <img alt="CSS3" title="CSS3" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <picture>
+    <img alt="HTML5" title="HTML5" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  </picture>
 
-  <img alt="JavaScript" title="JavaScript" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <picture>
+    <img alt="CSS3" title="CSS3" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  </picture>
 
-  <img alt="PHP" title="PHP" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <picture>
+    <img alt="JavaScript" title="JavaScript" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  </picture>
+
+  <picture>
+    <img alt="PHP" title="PHP" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  </picture>
 
   <a href="https://www.java.com/pt-BR/" target="_blank">
     <img alt="Java" title="Java" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -85,9 +94,11 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
   </a>
 
   <a href="https://www.apple.com/br/os/macos/" target="_blank">
-    <img alt="Apple macOS" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/default.svg" />
+    <img alt="Apple" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/default.svg" />
   </a>
 
-  <img alt="Linux" title="Linux" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" />
-</p>
+  <picture>
+    <img alt="Linux" title="Linux" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" />
+  </picture>
 
+</p>

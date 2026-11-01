@@ -61,9 +61,9 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
     <img alt="JavaScript" title="JavaScript" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   </picture>
 
-  <picture>
+ <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" title="PHP" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  </picture>
+  </a>
 
   <a href="https://www.java.com/pt-BR/" target="_blank">
     <img alt="Java" title="Java" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />

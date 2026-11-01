@@ -68,6 +68,10 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
     <img alt="Kotlin" title="Kotlin" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" />
   </a>
 
+  <a href="https://angular.dev/" target="_blank">
+    <img alt="Angular" title="Angular" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/angular/default.svg" />
+  </a>
+  
   <a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank">
     <img alt="Windows 11" title="Windows 11" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" />
   </a>
@@ -89,7 +93,7 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
   </picture>
   
   <a href="https://developer.android.com/studio?hl=pt-br" target="_blank">
-    <img alt="Android Studio" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" />
+    <img alt="Android Studio" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android-studio/default.svg" />
   </a>
   
 </p>

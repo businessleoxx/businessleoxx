@@ -87,5 +87,9 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
   <picture>
     <img alt="Linux" title="Linux" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" />
   </picture>
-
+  
+  <a href="https://developer.android.com/studio?hl=pt-br" target="_blank">
+    <img alt="Android Studio" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android/default.svg" />
+  </a>
+  
 </p>

@@ -56,13 +56,21 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
   <img alt="JavaScript" title="JavaScript" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />
 <a href="https://www.php.net/">  
 <img alt="PHP" title="PHP" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="margin-right: 10px;" />
-  <img alt="Java" title="Java" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin-right: 10px;" />
-  <img alt="MySQL" title="MySQL" width="44" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 10px;" />
-  <img alt="Git" title="Git" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" style="margin-right: 10px;" />
-  <img alt="Kotlin" title="Kotlin" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" style="margin-right: 10px;" />
-  <img alt="Windows 11" title="Windows 11" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" style="margin-right: 10px;" />
+<a href ="https://www.java.com/pt-BR/">  
+<img alt="Java" title="Java" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin-right: 10px;" />
+<a href="https://www.mysql.com/">  
+<img alt="MySQL" title="MySQL" width="44" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 10px;" />
+<a href="https://git-scm.com/">  
+<img alt="Git" title="Git" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" style="margin-right: 10px;" />
+<a href="https://kotlinlang.org/">  
+<img alt="Kotlin" title="Kotlin" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" style="margin-right: 10px;" />
+<a href="https://www.microsoft.com/pt-br/software-download/windows11">  
+<img alt="Windows 11" title="Windows 11" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" style="margin-right: 10px;" />
+        <a href="https://www.canva.com/pt_br/">
   <img alt="Canva" title="Canva" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/canva/canva-original.svg" style="margin-right: 10px;" />
-  <img alt="VS Code" title="Visual Studio Code" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" style="margin-right: 10px;" />
-  <img alt="Apple" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/default.svg" style="margin-right: 10px;" />
-  <img alt="Linux" title="Linux" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" style="margin-right: 10px;" />
+<a href="https://code.visualstudio.com/">  
+<img alt="VS Code" title="Visual Studio Code" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" style="margin-right: 10px;" />
+        <a href="https://www.apple.com/br/os/macos/">
+  <img alt="Apple" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/default.svg" style="margin-right: 10px;" />  
+<img alt="Linux" title="Linux" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" style="margin-right: 10px;" />
 </p>

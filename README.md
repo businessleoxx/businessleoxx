@@ -1,8 +1,6 @@
 # 🐱‍👤 Leonardo Ribeiro
 **`Desenvolvedor Fullstack`** **`Web Designer`** **`Dev`**
 
-Meu nome é Leonardo Ribeiro, sou de Osasco, São Paulo.
-
 Atualmente, estou cursando o Ensino Médio integrado ao Técnico em Informática na Fundação Instituto Tecnológico de Osasco (FITO), onde venho desenvolvendo meus conhecimentos em tecnologia, programação e desenvolvimento de sistemas.
 
 Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e transformar conhecimentos em projetos práticos.

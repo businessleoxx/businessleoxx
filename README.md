@@ -28,6 +28,10 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
 
+<a href="https://t.me/leoxx_oz" title="Telegram" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/telegram/default.svg" alt="Telegram" height="30" width="40" />
+</a>
+
  </p>
     
 ---

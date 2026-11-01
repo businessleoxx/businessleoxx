@@ -70,7 +70,6 @@ Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando apren
   <img alt="Canva" title="Canva" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/canva/canva-original.svg" style="margin-right: 10px;" />
 <a href="https://code.visualstudio.com/">  
 <img alt="VS Code" title="Visual Studio Code" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" style="margin-right: 10px;" />
-        <a href="https://www.apple.com/br/os/macos/">
   <img alt="Apple" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/default.svg" style="margin-right: 10px;" />  
 <img alt="Linux" title="Linux" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" style="margin-right: 10px;" />
 </p>

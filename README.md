@@ -1,99 +1,45 @@
-# 🐱‍👤 Leonardo Ribeiro
-**`Desenvolvedor Fullstack`** **`Web Designer`** **`Dev`**
-
-Atualmente, estou cursando o Ensino Médio integrado ao Técnico em Informática na Fundação Instituto Tecnológico de Osasco (FITO), onde venho desenvolvendo meus conhecimentos em tecnologia, programação e desenvolvimento de sistemas.
-
-Sou apaixonado por Tecnologia da Informação (TI) e estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e transformar conhecimentos em projetos práticos.
-
-<p align="left"
-        <a>
-        <img 
-            alt="email" 
-            title="email" 
-            src="https://custom-icon-badges.demolab.com/badge/-businessleoxx@gmail.com-red?color=blue&style=for-the-badge&logo=mention&logoColor=white"
-        />
-</a>
-        <img 
-            alt="cidade" 
-            title="minha cidade" 
-            src="https://custom-icon-badges.demolab.com/badge/Osasco-SP-purple?style=for-the-badge&logo=location&logoColor=white"
-        />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B1A,50:101B46,100:00D9FF&height=190&section=header&text=Leonardo%20Ribeiro&fontColor=EAFBFF&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=16" alt="Leonardo Ribeiro — Desenvolvedor em formação" />
 </p>
-        <p align="left">
-            <a href="https://www.linkedin.com/in/businessleoxx/?_l=pt_BR" title="Linkedin" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
 
-<a href="https://t.me/leoxx_oz" title="Telegram" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/telegram/default.svg" alt="Telegram" height="30" width="40" />
-</a>
+<p align="center">
+  <strong>Estudante de Técnico em Informática na FITO · Osasco, SP</strong><br />
+  Em busca de uma oportunidade de estágio ou Jovem Aprendiz em TI.
+</p>
 
- </p>
-    
+<p align="center">
+  <a href="https://www.linkedin.com/in/businessleoxx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:businessleoxx@gmail.com"><img src="https://img.shields.io/badge/E--mail-00D9FF?style=for-the-badge&logo=gmail&logoColor=07111F" alt="E-mail" /></a>
+  <a href="https://t.me/leoxx_oz"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre mim
 
-<p align="left">
+Sou estudante de Informática e gosto de transformar o que aprendo em projetos práticos. Tenho interesse em desenvolvimento web, programação e infraestrutura, e sigo ampliando minha experiência com projetos acadêmicos e pessoais.
 
-  <picture>
-    <img alt="HTML" title="HTML" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  </picture>
+## Tecnologias
 
-  <picture>
-    <img alt="CSS" title="CSS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  </picture>
-
-  <picture>
-    <img alt="JavaScript" title="JavaScript" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  </picture>
-
- <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" title="PHP" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  </a>
-
-  <a href="https://www.java.com/pt-BR/" target="_blank">
-    <img alt="Java" title="Java" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" title="MySQL" width="44" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" title="Git" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" />
-  </a>
-
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img alt="Kotlin" title="Kotlin" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" />
-  </a>
-
-  <a href="https://angular.dev/" target="_blank">
-    <img alt="Angular" title="Angular" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/angular/default.svg" />
-  </a>
-  
-  <a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank">
-    <img alt="Windows 11" title="Windows 11" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" />
-  </a>
-
-  <a href="https://www.canva.com/pt_br/" target="_blank">
-    <img alt="Canva" title="Canva" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/canva/canva-original.svg" />
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="VS Code" title="Visual Studio Code" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" />
-  </a>
-
-  <a href="https://www.apple.com/br/os/macos/" target="_blank">
-    <img alt="Apple" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/default.svg" />
-  </a>
-
-  <picture>
-    <img alt="Linux" title="Linux" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" />
-  </picture>
-  
-  <a href="https://developer.android.com/studio?hl=pt-br" target="_blank">
-    <img alt="Android Studio" title="macOS" width="30" height="30" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/android-studio/default.svg" />
-  </a>
-  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,mysql,git,angular,vscode,linux,windows,androidstudio" alt="HTML, CSS, JavaScript, PHP, Java, Kotlin, MySQL, Git, Angular, VS Code, Linux, Windows e Android Studio" />
 </p>
+
+## Projetos em destaque
+
+| Projeto | Sobre | Tecnologias |
+| --- | --- | --- |
+| [Currículo Online](https://github.com/businessleoxx/Curriculo-Online) | Apresentação profissional e currículo em uma página web responsiva. | HTML, CSS e JavaScript |
+| [Currículo Web](https://github.com/businessleoxx/CurriculoWeb-Celular) | Página simples com resumo, formação, habilidades e idiomas. | HTML, CSS e JavaScript |
+| [Conversor Universal](https://github.com/businessleoxx/Conversor-Universa) | Exercício de conversões térmicas e energéticas em Java. | Java |
+| [Calculadora de Áreas](https://github.com/businessleoxx/Construtora-de-Objetos-Projeto--) | Programa de console para calcular áreas de figuras geométricas. | Java |
+| [Lista de exercícios Kotlin](https://github.com/businessleoxx/ListaKodd) | Exercícios introdutórios de lógica e entrada de dados. | Kotlin |
+| [Lista de exercícios PHP](https://github.com/businessleoxx/Listacodd) | Exercícios introdutórios de programação em PHP. | PHP |
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/in/businessleoxx](https://www.linkedin.com/in/businessleoxx/)
+- **E-mail:** [businessleoxx@gmail.com](mailto:businessleoxx@gmail.com)
+- **Telegram:** [@leoxx_oz](https://t.me/leoxx_oz)
+
+<p align="center"><sub>Obrigado por visitar meu perfil.</sub></p>

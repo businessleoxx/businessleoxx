@@ -36,10 +36,5 @@ Sou estudante de Informática e gosto de transformar o que aprendo em projetos p
 | [Lista de exercícios Kotlin](https://github.com/businessleoxx/ListaKodd) | Exercícios introdutórios de lógica e entrada de dados. | Kotlin |
 | [Lista de exercícios PHP](https://github.com/businessleoxx/Listacodd) | Exercícios introdutórios de programação em PHP. | PHP |
 
-## Contato
-
-- **LinkedIn:** [linkedin.com/in/businessleoxx](https://www.linkedin.com/in/businessleoxx/)
-- **E-mail:** [businessleoxx@gmail.com](mailto:businessleoxx@gmail.com)
-- **Telegram:** [@leoxx_oz](https://t.me/leoxx_oz)
 
 <p align="center"><sub>Obrigado por visitar meu perfil.</sub></p>

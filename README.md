@@ -30,11 +30,6 @@ Sou estudante de Informática e gosto de transformar o que aprendo em projetos p
 | Projeto | Sobre | Tecnologias |
 | --- | --- | --- |
 | [Currículo Online](https://github.com/businessleoxx/Curriculo-Online) | Apresentação profissional e currículo em uma página web responsiva. | HTML, CSS e JavaScript |
-| [Currículo Web](https://github.com/businessleoxx/CurriculoWeb-Celular) | Página simples com resumo, formação, habilidades e idiomas. | HTML, CSS e JavaScript |
-| [Conversor Universal](https://github.com/businessleoxx/Conversor-Universa) | Exercício de conversões térmicas e energéticas em Java. | Java |
-| [Calculadora de Áreas](https://github.com/businessleoxx/Construtora-de-Objetos-Projeto--) | Programa de console para calcular áreas de figuras geométricas. | Java |
-| [Lista de exercícios Kotlin](https://github.com/businessleoxx/ListaKodd) | Exercícios introdutórios de lógica e entrada de dados. | Kotlin |
-| [Lista de exercícios PHP](https://github.com/businessleoxx/Listacodd) | Exercícios introdutórios de programação em PHP. | PHP |
-
+| [myh](https://github.com/businessleoxx/myh) | Projeto acadêmico originalmente publicado por 10022fix, adicionado ao meu perfil como fork. | HTML, CSS, Java e JavaScript |
 
 <p align="center"><sub>Obrigado por visitar meu perfil.</sub></p>
